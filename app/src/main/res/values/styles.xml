@@ -1,0 +1,10 @@
+<resources>
+    <style name="Theme.ToDo" parent="Theme.App.BaseTheme">
+        <item name="android:windowActivityTransitions">true</item>
+    </style>
+
+    <style name="Theme.ToDo.NoActionBar" parent="Theme.ToDo">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+</resources>

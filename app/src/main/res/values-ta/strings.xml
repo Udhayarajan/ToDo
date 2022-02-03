@@ -1,0 +1,62 @@
+<resources>
+    <string name="to_do">செய்ய</string>
+    <string name="done">முடிந்தது</string>
+    <string name="over_due">காலாவதியானது</string>
+    <string name="home">வீடு</string>
+    <string name="new_task">பணியைச் சேர்க்கவும்</string>
+    <string name="fab_add_task_description">பணியைச் சேர்க்கவும் அல்லது திருத்தவும்</string>
+
+    <string name="settings">அமைப்புகள்</string>
+    <!-- Placeholders -->
+    <string name="placeholder_title">தலைப்பை உள்ளிடவும்</string>
+    <string name="placeholder_description">விளக்கத்தை உள்ளிடவும்</string>
+    <string name="placeholder_subtask">துணைப் பணியை உள்ளிடவும்</string>
+    <!-- Hints -->
+    <string name="hint_title">*தலைப்பு</string>
+    <string name="hint_due">நிலுவைத் தேதி</string>
+    <string name="hint_description">விளக்கம்</string>
+    <string name="hint_subtask">துணைப் பணி</string>
+    <string name="add_task">பணியைச் சேர்க்கவும்</string>
+
+    <string name="sub_task_header">துணை பணிகள்</string>
+    <string name="edit_task">தொகு</string>
+    <string name="delete">அழி</string>
+    <string name="mark_as_done">முடிந்ததாகக் குறிக்கவும்</string>
+    <string name="mark_as_incomplete">முழுமையடையாததாகக் குறிக்கவும்</string>
+    <string name="device_theme">சாதன தீம்</string>
+    <string name="sys_settings">அமைப்பு</string>
+    <string name="device_lang">பயன்பாட்டு மொழி</string>
+    <string name="assigned_on">ஒதுக்கீடு: </string>
+    <string name="due_on">கால வரம்பு: </string>
+    <string name="not_assigned">"கிடையாது"</string>
+
+    <!--Snackbar Messages-->
+    <string name="snackbar_deleted">ஒரு பணி வெற்றிகரமாக நீக்கப்பட்டது</string>
+    <string name="snackbar_added">புதிய பணி வெற்றிகரமாக சேர்க்கப்பட்டது</string>
+    <string name="snackbar_edited">திருத்தம் வெற்றிகரமாக சேமிக்கப்பட்டது</string>
+    <string name="snackbar_marked_as_complete">பணி முடிந்ததாகக் குறிக்கப்பட்டது</string>
+    <string name="snackbar_marked_as_incomplete_to_change">துணைப் பணியை மாற்ற முழுமையடையவில்லை எனக் குறிக்கவும்</string>
+    <string name="snackbar_mark_as_incomplete_to_edit">பணியைத் திருத்த முழுமையடையவில்லை எனக் குறிக்கவும்</string>
+    <string name="snackbar_no_subtask_to_delete">நீக்க துணைப் பணி இல்லை!!</string>
+
+    <!--Input Field Error messages-->
+    <string name="input_error_title_max_len">அதிகபட்ச நீளத்தை அடைந்தது</string>
+    <string name="input_error_title_empty">*தலைப்பு காலியாக இருக்கக்கூடாது</string>
+    <string name="input_error_date_format">தவறான தேதி வடிவம் (எதிர்பார்க்கப்பட்டது DD-MMM-YY)</string>
+
+    <!--Global Menu-->
+    <string name="menu_sort_by">வரிசைப்படுத்து</string>
+    <string name="sort_by_due">காலக்கெடுவின்படி</string>
+    <string name="sort_by_assigned">ஒதுக்கப்பட்ட தேதியின்படி</string>
+    <string name="sort_by_progress">முன்னேற்றம்படி</string>
+    <string name="clear_listed_task">பட்டியலிடப்பட்ட பணிகளை அழிக்கவும்</string>
+    <string name="delete_all_task">அனைத்து பணிகளையும் நீக்கு</string>
+    <string name="search_tittle">தேடு</string>
+    <string name="hint_search_task">பணியைதத்தேடு</string>
+
+    <!--List Empty msg-->
+    <string name="list_empty_search">தேடலுக்கான பணி எதுவும் கிடைக்கவில்லை:</string>
+    <string name="list_empty_over_due">எந்தப் பணியும் காலக்கெடுவைத் தாண்டவில்லை</string>
+    <string name="list_empty_to_do">இதுவரை பணிகள் எதுவும் ஒதுக்கப்படவில்லை</string>
+    <string name="list_empty_done">எந்தப் பணியும் முடிந்ததாகக் குறிக்கப்படவில்லை</string>
+</resources>

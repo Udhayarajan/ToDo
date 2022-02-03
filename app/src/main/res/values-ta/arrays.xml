@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="theme_entries">
+        <item>கணினி இயல்புநிலை</item>
+        <item>பிரகாசம்</item>
+        <item>இருள்</item>
+    </string-array>
+</resources>

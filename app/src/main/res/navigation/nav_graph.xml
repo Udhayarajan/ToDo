@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/toDoFragment">
+
+    <fragment
+        android:id="@+id/toDoFragment"
+        android:name="com.mugames.todo.ui.fragments.ToDoFragment"
+        android:label="to_do_fragment"
+        tools:layout="@layout/to_do_fragment" >
+        <action
+            android:id="@+id/action_toDoFragment_to_viewTaskFragment"
+            app:destination="@id/viewTaskFragment" />
+        <argument android:name="loadData"
+            app:argType="string"
+            android:defaultValue="com.mugames.todo.ui.activities.FRAGMENT_TODO" />
+    </fragment>
+    <fragment
+        android:id="@+id/addFragment"
+        android:name="com.mugames.todo.ui.fragments.AddFragment"
+        android:label="fragment_add"
+        tools:layout="@layout/add_fragment" >
+        <argument
+            android:name="taskId"
+            app:argType="integer"
+            android:defaultValue="-1" />
+    </fragment>
+    <action
+        android:id="@+id/action_global_addFragment"
+        app:destination="@id/addFragment" />
+    <fragment
+        android:id="@+id/settingsFragment"
+        android:name="com.mugames.todo.ui.fragments.SettingsFragment"
+        android:label="SettingsFragment" />
+    <fragment
+        android:id="@+id/viewTaskFragment"
+        android:name="com.mugames.todo.ui.fragments.ViewTaskFragment"
+        android:label="ViewTaskFragment" >
+        <argument
+            android:name="position"
+            app:argType="integer" />
+        <action
+            android:id="@+id/action_viewTaskFragment_to_addFragment"
+            app:destination="@id/addFragment" />
+    </fragment><action android:id="@+id/action_global_settingsFragment" app:destination="@id/settingsFragment"/><action android:id="@+id/action_global_toDoFragment" app:destination="@id/toDoFragment"/>
+</navigation>

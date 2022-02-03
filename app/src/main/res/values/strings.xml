@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name" translatable="false">ToDo</string>
+    <string name="to_do">To-Do</string>
+    <string name="done">Done</string>
+    <string name="over_due">Overdue</string>
+    <string name="home">Home</string>
+    <string name="new_task">Add Task</string>
+    <string name="fab_add_task_description">Add or Edit task</string>
+
+    <string name="settings">Settings</string>
+    <!-- Placeholders -->
+    <string name="placeholder_title">Enter Title</string>
+    <string name="placeholder_due" translatable="false">DD-MMM-YY</string>
+    <string name="placeholder_description">Enter Description</string>
+    <string name="placeholder_subtask">Enter SubTask</string>
+    <!-- Hints -->
+    <string name="hint_title">*Title</string>
+    <string name="hint_due">Due date</string>
+    <string name="hint_description"> Description</string>
+    <string name="hint_subtask">SubTask</string>
+    <string name="add_task">Add task</string>
+
+    <string name="sub_task_header">Sub Tasks</string>
+    <string name="edit_task">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="view_description" translatable="false">task_view_description</string>
+    <string name="mark_as_done">Mark as Completed</string>
+    <string name="mark_as_incomplete">Mark as InComplete</string>
+    <string name="device_theme">Device Theme</string>
+    <string name="sys_settings">System</string>
+    <string name="key_theme" translatable="false">sys_theme</string>
+    <string name="key_lang" translatable="false">lang_switch</string>
+    <string name="device_lang">App Language</string>
+    <string name="assigned_on">Assigned: </string>
+    <string name="due_on">Due on: </string>
+    <string name="not_assigned">Not assigned</string>
+
+    <!--Snackbar Messages-->
+    <string name="snackbar_deleted">One Task Deleted Successfully</string>
+    <string name="snackbar_added">New Task Added Successfully</string>
+    <string name="snackbar_edited">Edit Saved Successfully</string>
+    <string name="snackbar_marked_as_complete">Task Marked as Complete</string>
+    <string name="snackbar_marked_as_incomplete_to_change">Mark as incomplete to change subtask</string>
+    <string name="snackbar_mark_as_incomplete_to_edit">Mark as incomplete to edit task</string>
+    <string name="snackbar_no_subtask_to_delete">There is no SubTask to delete!!</string>
+
+    <!--Input Field Error messages-->
+    <string name="input_error_title_max_len">Maximum length reached</string>
+    <string name="input_error_title_empty">*Title can\'t be empty</string>
+    <string name="input_error_date_format">Invalid Date Format (expected DD-MMM-YY)</string>
+
+    <!--Global Menu-->
+    <string name="menu_sort_by">Sort By</string>
+    <string name="sort_by_due">By Due</string>
+    <string name="sort_by_assigned">By Assigned</string>
+    <string name="sort_by_progress">By Progress</string>
+    <string name="clear_listed_task">Clear Listed Tasks</string>
+    <string name="delete_all_task">Delete All Tasks</string>
+    <string name="search_tittle">Search</string>
+    <string name="hint_search_task">Search Task</string>
+
+    <!--List Empty msg-->
+    <string name="list_empty_search">No task found for search:</string>
+    <string name="list_empty_over_due">Applause no task was crossed the deadline</string>
+    <string name="list_empty_to_do">No tasks were assigned yet</string>
+    <string name="list_empty_done">Hmm.... No tasks were marked as completed</string>
+
+</resources>

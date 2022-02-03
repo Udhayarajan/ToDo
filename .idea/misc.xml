@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/PROJECTS/AndroidStudio/ToDo/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.16145833333333334" />
+        <entry key="..\:/PROJECTS/AndroidStudio/ToDo/app/src/main/res/drawable/blur_view.xml" value="0.2890625" />
+        <entry key="..\:/PROJECTS/AndroidStudio/ToDo/app/src/main/res/drawable/circle.xml" value="0.16510416666666666" />
+        <entry key="..\:/PROJECTS/AndroidStudio/ToDo/app/src/main/res/drawable/fill_btn.xml" value="0.13020833333333334" />
+        <entry key="..\:/PROJECTS/AndroidStudio/ToDo/app/src/main/res/drawable/ic__app_to_do.xml" value="0.16145833333333334" />
+        <entry key="..\:/PROJECTS/AndroidStudio/ToDo/app/src/main/res/drawable/ic_todo.xml" value="0.16145833333333334" />
+        <entry key="..\:/PROJECTS/AndroidStudio/ToDo/app/src/main/res/drawable/ic_vector.xml" value="0.16145833333333334" />
+        <entry key="..\:/PROJECTS/AndroidStudio/ToDo/app/src/main/res/drawable/progress_background.xml" value="0.14010416666666667" />
+        <entry key="..\:/PROJECTS/AndroidStudio/ToDo/app/src/main/res/font/pt_serif.xml" value="0.303125" />
+        <entry key="..\:/PROJECTS/AndroidStudio/ToDo/app/src/main/res/layout/activity_add_to_do.xml" value="0.152" />
+        <entry key="..\:/PROJECTS/AndroidStudio/ToDo/app/src/main/res/layout/activity_main.xml" value="0.176" />
+        <entry key="..\:/PROJECTS/AndroidStudio/ToDo/app/src/main/res/layout/add_fragment.xml" value="0.264" />
+        <entry key="..\:/PROJECTS/AndroidStudio/ToDo/app/src/main/res/layout/app_top_bar.xml" value="0.1" />
+        <entry key="..\:/PROJECTS/AndroidStudio/ToDo/app/src/main/res/layout/assigned_fragment.xml" value="0.25416666666666665" />
+        <entry key="..\:/PROJECTS/AndroidStudio/ToDo/app/src/main/res/layout/done_fragment.xml" value="0.3310170562223626" />
+        <entry key="..\:/PROJECTS/AndroidStudio/ToDo/app/src/main/res/layout/editable_sub_task_item.xml" value="0.4" />
+        <entry key="..\:/PROJECTS/AndroidStudio/ToDo/app/src/main/res/layout/fragment_add.xml" value="0.27291666666666664" />
+        <entry key="..\:/PROJECTS/AndroidStudio/ToDo/app/src/main/res/layout/fragment_view_task.xml" value="0.4" />
+        <entry key="..\:/PROJECTS/AndroidStudio/ToDo/app/src/main/res/layout/home_fragment.xml" value="0.25416666666666665" />
+        <entry key="..\:/PROJECTS/AndroidStudio/ToDo/app/src/main/res/layout/missing_fragment.xml" value="0.24010416666666667" />
+        <entry key="..\:/PROJECTS/AndroidStudio/ToDo/app/src/main/res/layout/sub_task_item.xml" value="0.264" />
+        <entry key="..\:/PROJECTS/AndroidStudio/ToDo/app/src/main/res/layout/subtask_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/PROJECTS/AndroidStudio/ToDo/app/src/main/res/layout/task_item.xml" value="0.4" />
+        <entry key="..\:/PROJECTS/AndroidStudio/ToDo/app/src/main/res/layout/to_do_fragment.xml" value="0.264" />
+        <entry key="..\:/PROJECTS/AndroidStudio/ToDo/app/src/main/res/layout/view_task_fragment.xml" value="0.3459715639810427" />
+        <entry key="..\:/PROJECTS/AndroidStudio/ToDo/app/src/main/res/menu/add_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/PROJECTS/AndroidStudio/ToDo/app/src/main/res/menu/app_bar.xml" value="0.25416666666666665" />
+        <entry key="..\:/PROJECTS/AndroidStudio/ToDo/app/src/main/res/menu/global_menu.xml" value="0.26875" />
+        <entry key="..\:/PROJECTS/AndroidStudio/ToDo/app/src/main/res/menu/menu_bottom_app_bar.xml" value="0.27291666666666664" />
+        <entry key="..\:/PROJECTS/AndroidStudio/ToDo/app/src/main/res/menu/view_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/PROJECTS/AndroidStudio/ToDo/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.16145833333333334" />
+        <entry key="..\:/PROJECTS/AndroidStudio/ToDo/app/src/main/res/xml/root_preferences.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
